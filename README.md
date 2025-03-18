@@ -18,3 +18,19 @@ How to Play
 3. **Survive Waves**: Defend against waves of zombies, each wave becoming progressively harder.
 
 4. **Upgrade & Adapt**: Use resources earned from defeating zombies to upgrade your towers and adapt your strategy.
+
+
+Scences:
+
+Intro scence
+![image](https://github.com/user-attachments/assets/a672e3f2-502f-492c-b2f1-0bdb75c57ca9)
+
+First Map
+![image](https://github.com/user-attachments/assets/ebb30734-7911-4c64-b611-125af57e6c41)
+
+Second Map
+![image](https://github.com/user-attachments/assets/e5b1aa27-8c4b-449e-8731-a0939aa98d71)
+
+Third Map
+![image](https://github.com/user-attachments/assets/053a9132-2365-4777-8f62-753aa1beaad3)
+
