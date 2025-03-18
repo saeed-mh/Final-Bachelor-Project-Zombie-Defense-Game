@@ -40,6 +40,10 @@ Enemies:
 Turrets:
 ![image](https://github.com/user-attachments/assets/0129f00b-0e92-4df3-88c9-25297e9127d6)
 
+Projectiles:
+![image](https://github.com/user-attachments/assets/eccb3fbe-c747-4103-bce8-baeab2c2a1e8)
+
+
 
 **Run the project:**
 
