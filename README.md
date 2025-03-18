@@ -40,3 +40,8 @@ Enemies:
 Turrets:
 ![image](https://github.com/user-attachments/assets/0129f00b-0e92-4df3-88c9-25297e9127d6)
 
+
+**Run the project:**
+
+I used Unity version 2022.3.50f. To run this project, just extract the RAR file and open it. It might take a bit longer the first time!
+
